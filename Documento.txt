@@ -2,4 +2,6 @@ Hola clase
 Bienvenidos
 Hoy lunes 19 de junio a las 9:06pm
 Se está realizando clase de Git
-Lunes, martes y jueves    
+Lunes, martes y jueves 
+Estamos actualizando Git Hub
+   
